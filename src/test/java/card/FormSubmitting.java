@@ -21,7 +21,7 @@ public class FormSubmitting {
     }
 
     @Test
-    void FormTest() {
+    void sendForm() {
         $("[data-test-id=city] input").setValue("Москва");
         $("[data-test-id=date] input").sendKeys(Keys.chord(Keys.SHIFT, Keys.HOME), Keys.DELETE);
         $("[data-test-id=date] input").setValue(generateDate(3));
