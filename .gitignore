@@ -5,7 +5,7 @@ HELP.md
 build/
 .idea/
 .driver/
-.bin/
+bin
 
 
 ### STS ###
