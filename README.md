@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/cr1fjyeaksbn9u8l?svg=true)](https://ci.appveyor.com/project/astsidvan/carddelivery)
+[![Build status](https://ci.appveyor.com/api/projects/status/2lwsss805f0kd1xo?svg=true)](https://ci.appveyor.com/project/astsidvan/carddelivery-5b84e)
